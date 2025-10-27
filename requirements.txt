@@ -1,0 +1,4 @@
+# core (tkinter is included with most Python installs and does not need pip)
+zxcvbn-python>=4.4.28    # optional but recommended for accurate strength scoring
+nltk>=3.8.1              # optional (tokenization); used if installed
+reportlab>=3.6.12        # only if you want to auto-generate PDF from scripts
